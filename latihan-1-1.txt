@@ -1,6 +1,8 @@
 Rencana lain :
 - membuat video
 - belajar JS
+  * Belajar Dasar JS
+  * Belajar Framefork
 - belajar CSS3
 - belajar HTMl5
 - belajar PHP
