@@ -3,6 +3,9 @@ Rencana lain :
 - belajar JS
   * Belajar Dasar JS
   * Belajar Framefork
-- belajar CSS3
+    ^ Angular
+    ^ React JS
 - belajar HTMl5
 - belajar PHP
+  * Belajar Framework
+    ^ Laravel
