@@ -1,8 +1,13 @@
 Rencana lain :
 - membuat video
+  * Upload Youtube
 - belajar JS
   * Belajar Dasar JS
   * Belajar Framefork
+    ^ Vue
+    ^ React JS
 - belajar CSS3
 - belajar HTMl5
 - belajar PHP
+  * Belajar Framework
+    ^ Laravel
