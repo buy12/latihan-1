@@ -1,5 +1,6 @@
 Rencana lain :
 - membuat video
+  * Upload Youtube
 - belajar JS
   * Belajar Dasar JS
   * Belajar Framefork
